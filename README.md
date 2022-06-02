@@ -2,7 +2,7 @@
 
 # ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BadAllOff.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitor) 👋 Nice to SEE you!
 
-The most successful individuals are those who have experienced the greatest failures. Does that imply that in order to succeed, you must fail a lot? If you believe this, you are erroneous; it is a cognitive bias caused by linguistic manipulations. For those who are interested in such themes, I will shortly be starting a new initiative to assist you in developing your critical thinking skills.
+The most successful individuals are those who have experienced the greatest number of failures. Does that imply that in order to succeed, you must fail a lot? If you believe this, you are erroneous; it is a cognitive bias caused by linguistic manipulations. For those who are interested in such themes, I will shortly be starting a new initiative to assist you in developing your critical thinking skills.
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=67&color=gradient)
 
