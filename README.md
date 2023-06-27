@@ -25,11 +25,11 @@ Don't worry, friend, if you get lost and there aren't enough people around to he
 
 # 💬 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript&#39;s Asynchronous Power: Promises and Async/Awaito translation... yet!](http://badalloff.science/en/articles/53)
 - [The Ruby Object Model by Dave Thomas](http://badalloff.science/en/articles/52)
 - [Ruby is Back! All hail Ruby! - programming language rating TIOBE](http://badalloff.science/en/articles/51)
 - [SOLID - Simply about D - Dependency Inversion Principle](http://badalloff.science/en/articles/50)
 - [Another modest&lpar;but useful&rpar; contribution to Open Source, about vulnerability CVE-2017-17405](http://badalloff.science/en/articles/49)
-- [Patterns GRASP, GoF, anti-patterns , refactoring](http://badalloff.science/en/articles/48)
 <!-- BLOG-POST-LIST:END -->
 
 
