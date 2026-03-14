@@ -1,12 +1,8 @@
-<p align="center" ><img alt="Spooky spooky" src="img/spooky_hello.png" height="150"/></p>
-
 # ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BadAllOff.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitor) 👋 Nice to SEE you!
 
 The most successful individuals are those who have experienced the greatest number of failures. Does that imply that in order to succeed, you must fail a lot? If you believe this, you are erroneous; it is a cognitive bias caused by linguistic manipulations. For those who are interested in such themes, I will shortly be starting a new initiative to assist you in developing your critical thinking skills.
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=67&color=gradient)
-
-Don't worry, friend, if you get lost and there aren't enough people around to help you with your code. Those nice, kind eyes will bring you through the darkness of HR's mind to the correct hiring choice.
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=67&color=gradient)
 
@@ -18,6 +14,7 @@ Don't worry, friend, if you get lost and there aren't enough people around to he
   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
   <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&&logo=Node.js&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&&logo=Node.js&logoColor=white" />
 </p>
 
 
