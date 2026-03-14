@@ -4,8 +4,6 @@ The most successful individuals are those who have experienced the greatest numb
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=67&color=gradient)
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=67&color=gradient)
-
 <h3>My main stack</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" /> 
@@ -14,7 +12,6 @@ The most successful individuals are those who have experienced the greatest numb
   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
   <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&&logo=Node.js&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&&logo=Node.js&logoColor=white" />
 </p>
 
 
